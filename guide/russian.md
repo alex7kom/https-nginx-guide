@@ -266,7 +266,7 @@ server {
 
 * [Онлайн-тестер SSL](https://www.ssllabs.com/ssltest/index.html) и [блог SSL Labs](https://community.qualys.com/blogs/securitylabs) (англ.)
 
-* [Как правильно развернуть HTTPS](/kak-pravilno-razvernut-https/)
+* [Как правильно развернуть HTTPS](https://github.com/Alex7Kom/deploying-https-russian)
 
 * [Is TLS Fast Yet?](https://istlsfastyet.com/) (англ.)
 
